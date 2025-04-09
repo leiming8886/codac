@@ -7,6 +7,9 @@
         <mxCell id="n8PuyOx6uOkXC0G1h50T-67" value="数据空间理事会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="370" width="172" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-68" target="n8PuyOx6uOkXC0G1h50T-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-68" value="可信数据空间" style="aspect=fixed;strokeWidth=2;whiteSpace=wrap;container=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="474" width="106" height="106" as="geometry" />
         </mxCell>
