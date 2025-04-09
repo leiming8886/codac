@@ -13,11 +13,11 @@
         <mxCell id="n8PuyOx6uOkXC0G1h50T-69" value="数据空间主任" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1166" y="682" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-70" value="技术委员会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="682" width="140" height="54" as="geometry" />
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-71" target="n8PuyOx6uOkXC0G1h50T-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-71" value="伦理委员会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="653" y="682" width="140" height="54" as="geometry" />
+          <mxGeometry x="653" y="450" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-72" value="产业基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="558" width="124" height="54" as="geometry" />
@@ -42,22 +42,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-68" target="n8PuyOx6uOkXC0G1h50T-69">
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-70" target="n8PuyOx6uOkXC0G1h50T-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1244" y="621" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-81" value="技术指导" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-68" target="n8PuyOx6uOkXC0G1h50T-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-82" value="伦理审查" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-68" target="n8PuyOx6uOkXC0G1h50T-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="723" y="621" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,13 +83,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-73" value="合作单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="460" width="124" height="54" as="geometry" />
+          <mxGeometry x="250" y="450" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-72" target="n8PuyOx6uOkXC0G1h50T-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-73" target="n8PuyOx6uOkXC0G1h50T-68">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-70" target="n8PuyOx6uOkXC0G1h50T-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-70" value="技术委员会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="653" y="540" width="140" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
