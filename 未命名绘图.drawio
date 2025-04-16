@@ -7,9 +7,6 @@
         <mxCell id="n8PuyOx6uOkXC0G1h50T-67" value="数据空间理事会" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#214A7E;strokeColor=none;fontStyle=1;fontColor=#FFFFFF;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="773" y="210" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1;fontColor=#FFFFFF;strokeWidth=1.5;" parent="1" source="n8PuyOx6uOkXC0G1h50T-68" target="n8PuyOx6uOkXC0G1h50T-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-68" value="可信数据空间" style="aspect=fixed;strokeWidth=2;whiteSpace=wrap;container=0;flipV=1;fontSize=18;fillColor=#214A7E;strokeColor=#6C8EBF;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="800" y="318.3333333333333" width="118" height="118" as="geometry" />
         </mxCell>
@@ -52,6 +49,9 @@
               <mxPoint x="1333" y="594" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W7ZJWf5lDFY1amtUbJgj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n8PuyOx6uOkXC0G1h50T-69" target="n8PuyOx6uOkXC0G1h50T-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-69" value="数据空间主任" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#214A7E;strokeColor=#6C8EBF;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="781" y="480" width="156" height="54" as="geometry" />
