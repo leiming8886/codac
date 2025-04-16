@@ -120,16 +120,16 @@
           <mxGeometry x="870" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="270" y="210" width="45" height="330" as="geometry" />
+          <mxGeometry x="260" y="210" width="45" height="330" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="270" y="560" width="45" height="130" as="geometry" />
+          <mxGeometry x="260" y="560" width="45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-15" value="决策层" style="text;whiteSpace=wrap;fontSize=24;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="295.33" width="30" height="156" as="geometry" />
+          <mxGeometry x="267.5" y="297" width="30" height="156" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-16" value="执行层" style="text;whiteSpace=wrap;fontSize=24;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="550" width="30" height="156" as="geometry" />
+          <mxGeometry x="267.5" y="550" width="30" height="156" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
