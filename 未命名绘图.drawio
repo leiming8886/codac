@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0" version="26.2.12">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1434" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-67" value="数据空间理事会" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#214A7E;strokeColor=none;fontStyle=1;fontColor=#FFFFFF;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-67" value="数据空间理事会" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#0047AB;strokeColor=none;fontStyle=1;fontColor=#FFFFFF;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="773" y="210" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="n8PuyOx6uOkXC0G1h50T-68" value="可信数据空间" style="aspect=fixed;strokeWidth=2;whiteSpace=wrap;container=0;flipV=1;fontSize=18;fillColor=#214A7E;strokeColor=#6C8EBF;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -107,7 +107,7 @@
             <mxPoint x="-35" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8PuyOx6uOkXC0G1h50T-71" value="伦理委员会" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#214A7E;strokeColor=#6C8EBF;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="n8PuyOx6uOkXC0G1h50T-71" value="伦理委员会" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#2E5B88;strokeColor=#6C8EBF;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="590" y="350" width="120" height="54.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-7" value="&lt;span style=&quot;text-wrap: wrap; background-color: rgb(236, 236, 236);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;管理技术&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;textDirection=vertical-lr;fontFamily=Helvetica;fontSize=14;spacing=0;fontStyle=1" vertex="1" connectable="0" parent="1">
@@ -119,7 +119,7 @@
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;日常管理工作&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870" y="440" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W7ZJWf5lDFY1amtUbJgj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+        <mxCell id="W7ZJWf5lDFY1amtUbJgj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#0047AB;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="45" height="330" as="geometry" />
         </mxCell>
         <mxCell id="W7ZJWf5lDFY1amtUbJgj-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
